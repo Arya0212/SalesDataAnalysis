@@ -10,7 +10,7 @@ This repository contains Python code utilizing the Pandas and Matplotlib librari
 ## Installation
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/sales-data-analysis.git
+    git clone https://github.com/Arya0212/sales-data-analysis.git
     ```
 
 2. Install the required dependencies:
